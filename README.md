@@ -1,1 +1,1 @@
-Link = https://mohammad0murtuza.github.io/Joke-API/
+Link = https://mohammad0murtuza.github.io/Random-Jokes/
